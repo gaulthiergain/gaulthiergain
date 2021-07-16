@@ -1,1 +1,12 @@
-<img src=https://github.com/gaulthiergain/gaulthiergain/raw/master/gaulthiergain_logo.gif />
+<h2>Hey, I'm Gaulthier 👋</h2>
+
+<p>
+	I am a PhD student in Computer Science at the University of Liège, Belgium. My research interests revolve around operating systems, memory forensics, binary analysis and linkers/loaders.</b>.
+</p>
+
+<br>
+
+<p>
+	<a href="https://github.com/gaulthiergain"><img width="49%" src="https://github-readme-stats.vercel.app/api?username=gaulthiergain&count_private=true&show_icons=true&hide_title=true" alt="GitHub Stats" align="left"></a>
+	<a href="https://github.com/gaulthiergain"><img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaulthiergain&layout=compact&hide_title=true" alt="Top Langs" align="right"></a>
+</p>
