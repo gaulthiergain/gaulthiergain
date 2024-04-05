@@ -7,5 +7,5 @@
 <br>
 
 <p>
-	<a href="https://github.com/gaulthiergain"><img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaulthiergain&layout=compact&hide_title=true" alt="Top Langs" align="right"></a>
+	<a href="https://github.com/gaulthiergain"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaulthiergain&layout=compact&hide_title=true" alt="Top Langs" align="left"></a>
 </p>
